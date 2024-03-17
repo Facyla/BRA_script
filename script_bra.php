@@ -12,7 +12,7 @@ $data_url = "https://donneespubliques.meteofrance.fr/donnees_libres/Pdf/BRA/bra.
 
 /* CONFIGURATION */
 // Sécurisation niveau 0 : avec une clef secrète quelconque - l'envoi d'email n'est déclenché que si on fournit la clef
-$script_auth_key = 'ahbuithiesh3uebAhn4eiPaePhah4eibahL9quo3oc4bvokoyM4engah7';
+$script_auth_key = 'ahb_une_clef_secrete_un_peu_longue_pouvant_etre passee_via_une_url_4engah7';
 // Massifs sélectionnés
 $mail_massifs = ["COUSERANS", "HAUTE-ARIEGE", "ANDORRE", "ORLU__ST_BARTHELEMY", "CAPCIR-PUYMORENS", "LUCHONNAIS", "VERCORS", "CHARTREUSE", "BELLEDONNE", "OISANS"];
 // Destinataire et Expéditeur
